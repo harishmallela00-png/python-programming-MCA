@@ -1,0 +1,5 @@
+languages=("Python","Java","C","R")
+print(languages)
+print(languages[1])
+print(languages[1:3])
+print(len(languages))
